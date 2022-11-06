@@ -34,12 +34,7 @@ void GetData(string Courses[], int CrHrs[], int Marks[])
 {
 	
 	for (int i = 0; i < SIZE; i++)
-	{
-		
-		int s = 8;
-		
-
-		
+	{	
 		
 		cout << "Enter the Course Name: ";
 		getline(cin,Courses[i]);
