@@ -5,7 +5,7 @@ This Repository Includes My C++ Codes that Use Programming Fundamentals in C++ t
 ![App Screenshot](https://imgtr.ee/images/2023/06/03/bRu10.png)
 
 ### Problem Statement Will be Shown Like this:
-![App Screenshot](https://imgtr.ee/images/2023/06/03/bRs9V.png)
+![App Screenshot](https://imgtr.ee/images/2023/06/03/bRFVF.png)
 
 ## My Mission🌱:
 This Repository has been created to help Students all over the World and Especially at FAST-NUCES to solve entry level problems and do practice.
